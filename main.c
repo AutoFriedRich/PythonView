@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(int argc, char const *argv[])
-{
-	
-    printf("%d",6);
+{	
+    printf("Hello git");
     return 0;
 }
